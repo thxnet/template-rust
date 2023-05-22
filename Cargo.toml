@@ -2,13 +2,13 @@
 version = "0.0.0"
 authors = ["THXLAB PTE. LTD. <contact@thxlab.io>"]
 homepage = "https://thxnet.org/"
-repository = "https://github.com/thxnet/kallax"
+repository = "https://github.com/thxnet/template-rust"
 readme = "README.md"
 license = "GPL-3.0-only"
 edition = "2021"
-description = "Utilities for setting up and managing Substrate-based blockchains"
+description = "Rust template of THXLAB"
 categories = ["command-line-utilities"]
-keywords = ["substrate"]
+keywords = ["template"]
 
 [package]
 name = "temlate-rust"
