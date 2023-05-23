@@ -11,7 +11,7 @@ categories = ["command-line-utilities"]
 keywords = ["template"]
 
 [package]
-name = "temlate-rust"
+name = "template-rust"
 version.workspace = true
 readme.workspace = true
 authors.workspace = true
@@ -24,7 +24,7 @@ categories.workspace = true
 keywords.workspace = true
 
 [[bin]]
-name = "temlate-rust"
+name = "template-rust"
 path = "src/main.rs"
 
 [dependencies]
